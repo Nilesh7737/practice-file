@@ -1,13 +1,33 @@
-#tab-1{
-    background-color: black;
-    color:white;
+#sub-h-tag{
+    color: brown;
 }
-#main-1 {
+#p-tag-1{
+    color: yellow;
+}
+#sub-p-tag{
+    color: white;
+}
+#h-tag-1{
+    color: white;
+}
+#main-11{
+    background-color: black;
+}
+#list-1{
+    color: white;
+}
+#list-2{
+    color: rgb(34, 255, 0);
+}
+#tab-1 {
     color:aqua;
 }
-#main-2{
-    color: rgb(165, 165, 165);
+#tab-2{
+    color: rgb(49, 35, 199);
 }
-#main-3{
+#tab-3{
     color:red;
+}
+#tab-4{
+    color: teal;
 }
